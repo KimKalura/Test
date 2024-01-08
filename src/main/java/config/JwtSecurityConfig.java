@@ -19,8 +19,7 @@
 //
 //    @Autowired
 //    private JwtRequestFilter jwtRequestFilter;
-//
-//
+
 //
 //    @Bean
 //    public AuthenticationManager authenticationManager(AuthenticationConfiguration authenticationConfiguration) throws Exception {
